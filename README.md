@@ -76,6 +76,13 @@ npx expo start
 - [Layout Mobile | Figma 🎨](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?type=design&node-id=2-3&mode=design&t=Jo9Iyu9MoEYzCBBl-0)
 - [Layout Web | Figma 🎨](https://www.figma.com/file/NXaJQnsyCZP46eNSOBqJZs/Happy-Web?type=design&node-id=2-3&mode=design&t=NBwhEM40SVGUTN9n-0)
 
+**🏧 Server:**
+
+- [Express](https://expressjs.com/en/starter/hello-world.html)
+- [TypeScript](https://github.com/microsoft/TypeScript)
+- [Multer](https://www.npmjs.com/package/multer)
+- [TypeORM](https://typeorm.io/)
+
 **💻 Web:**
 
 - [Vite](https://vitejs.dev/guide/)
